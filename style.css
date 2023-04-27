@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Comforter&family=Dancing+Script&family=Dosis:wght@200&family=Fira+Sans&family=Gideon+Roman&family=Heebo:wght@200&family=Lora:wght@500&family=Montserrat:wght@300&family=Open+Sans&family=Oswald:wght@300&family=PT+Sans:ital@0;1&family=Redressed&family=Roboto+Mono:wght@100;400&family=Smooch+Sans:wght@300;400&display=swap');
+body
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-style: sans serif;
+    background-color: #000;
+}
+.container-one
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   
+}
+.navbar ul
+{
+    display: inline-flex;
+    list-style: none;
+    gap: 2rem;
+
+}
+.navbar a
+{
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Smooch Sans', sans-serif;
+    font-size: 20px;
+    
+}
+.container-three h2
+{
+    color: #fff;
+    font-family: 'Smooch Sans', sans-serif;
+    margin-left: 22%;
+    font-size: 60px;
+}
+.container-three img
+{
+    padding: 0 0 40px 0;
+}
+.container-four
+{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.container-four p
+{
+    color: #fff;
+    font-family: 'Smooch Sans', sans-serif;
+    font-size: 60px;
+    width: 40%;
+}
+.container-six
+{
+    color: #fff;
+    margin-left: 5%;
+}
+.container-six h3
+{
+    /* padding: 30px 0 0 0; */
+    height: 2vh;
+    text-transform: uppercase;
+    font-family: 'Smooch Sans', sans-serif;
+    font-size: 40px;
+    font-weight: none;
+
+}
+.container-six h1
+{
+    height: 5vh; 
+    text-transform: uppercase;
+    font-family: 'Smooch Sans', sans-serif;
+    font-size: 80px;
+
+}
+.container-six p
+{
+    width: 80%;
+    font-family: 'Smooch Sans', sans-serif;
+    font-size: 30px;
+
+}
+
+   
